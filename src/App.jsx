@@ -4,7 +4,7 @@ import { loginUrl } from './auth'
 import { fetchSong } from './fetchSongs'
 
 function App() {
-
+console.log(loginUrl);
   const [token, setToken] = useState('')
   const [data, setData] = useState()
   const [songTitle,setSongTitle] = useState('')
