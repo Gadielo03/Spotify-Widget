@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import './App.css'
 import { loginUrl } from './auth'
 import { fetchSong } from './fetchSongs'
-import { FileMusic } from 'lucide-react';
 
 function App() {
 
