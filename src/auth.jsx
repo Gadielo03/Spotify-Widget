@@ -1,7 +1,7 @@
 // auth.js
 const CLIENT_ID = "0ab6b75d95f141509426ad5345280550"
-//const REDIRECT_URI = "http://gadielo03.github.io/spotify-widget/"
-const REDIRECT_URI = "http://localhost:8888/callback"
+const REDIRECT_URI = "https://gadielo03.github.io/spotify-widget/"
+//const REDIRECT_URI = "http://localhost:8888/callback"
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"
 const RESPONSE_TYPE = "token"
 
